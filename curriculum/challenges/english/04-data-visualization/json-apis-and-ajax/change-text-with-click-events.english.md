@@ -91,7 +91,5 @@ tests:
 ## Solution
 <section id='solution'>
 
-```js
-// solution required
-```
+```document.getElementsByClassName("message box")[0].textContent="Here is the message.";```
 </section>
